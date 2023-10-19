@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/personal-cv/static/css/main.018cc973.css",
+    "main.js": "/personal-cv/static/js/main.8ad9edbb.js",
+    "static/js/787.ff60d8a6.chunk.js": "/personal-cv/static/js/787.ff60d8a6.chunk.js",
+    "static/media/cer.png": "/personal-cv/static/media/cer.879a62dab12036a00953.png",
+    "static/media/github-icon.png": "/personal-cv/static/media/github-icon.4d74fd76ac168df7723c.png",
+    "static/media/poza2.jpeg": "/personal-cv/static/media/poza2.9ac8717b1f76a9b31c45.jpeg",
+    "static/media/CentraNo2-Bold.ttf": "/personal-cv/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/personal-cv/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/personal-cv/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/contact-img.svg": "/personal-cv/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/logo12.png": "/personal-cv/static/media/logo12.06c693f924975b33157b.png",
+    "static/media/revicons.eot": "/personal-cv/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/personal-cv/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/personal-cv/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/personal-cv/index.html",
+    "static/media/nav-icon1.svg": "/personal-cv/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/personal-cv/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.018cc973.css.map": "/personal-cv/static/css/main.018cc973.css.map",
+    "main.8ad9edbb.js.map": "/personal-cv/static/js/main.8ad9edbb.js.map",
+    "787.ff60d8a6.chunk.js.map": "/personal-cv/static/js/787.ff60d8a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.018cc973.css",
+    "static/js/main.8ad9edbb.js"
+  ]
+}
