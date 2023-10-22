@@ -711,9 +711,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   margin-bottom: 30px;
 }
 
-.contact form input,
-.contact form textarea {
-  width: 100%;
+.contact Form input,
+.contact Form textarea {
+  width: 80%;
   background: rgba(255, 255, 255, 0.1);
   border: 1px solid rgba(255, 255, 255, 0.5);
   border-radius: 20px;
@@ -747,7 +747,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 .contact form button {
   font-weight: 700;
-  color: #000;
+  color: #6f116a;
   background-color: #fff;
   padding: 14px 48px;
   font-size: 18px;
@@ -766,9 +766,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   color: #fff;
 }
 
-.contact form button::before {
+.contact Form button::before {
   content: "";
-  background: #121212;
+  background: #a41698;
   width: 0;
   height: 100%;
   position: absolute;
