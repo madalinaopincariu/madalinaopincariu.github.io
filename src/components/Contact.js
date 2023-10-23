@@ -69,7 +69,7 @@ export const Contact = () => {
                                             </Col>
                                             <Col size={12} className="px-1">
                                                 <textarea rows="6" value={formDetails.messagee} placeholder="Message" name="message"></textarea>
-                                                <button type="submit">Submit</button>
+                                                <button type="submit">Send</button>
                                             </Col>
                                         </Row>
                                     </form>
